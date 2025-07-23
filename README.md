@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake" />
   <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat&logo=amazon-redshift" />
-  <img src="[https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server" />
   <img src="https://img.shields.io/badge/dbt-FC5424?style=flat&logo=dbt" />
   <img src="https://img.shields.io/badge/Dagster-1C1C1C?style=flat&logo=dagster" />
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoft-azure" />
