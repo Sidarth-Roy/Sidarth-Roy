@@ -8,7 +8,7 @@
 
 ---
 ## 🧰 Tech Stack
-<div align="center">
+<p align="center">
   ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
@@ -37,7 +37,7 @@
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
   ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs)
-</div>
+</p>
 ---
 
 ## 🚀 Featured Projects
